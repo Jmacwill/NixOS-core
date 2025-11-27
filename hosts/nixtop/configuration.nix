@@ -30,7 +30,7 @@
 
   home-manager = {
     users = {
-      "cmacwill" = import ./home.nix;
+      "jonathan" = import ./home.nix;
     };
   };
 
